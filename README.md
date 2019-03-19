@@ -9,7 +9,7 @@ This are some programming exercises I solved during classes to get comfortable w
 This is the first project of the course, more information can be found in the [ReadMe.txt](https://github.com/leonardofmoura/FEUP-PROG/blob/master/Project%201%20-%20Playwords/ReadMe.txt) file of the project.
 
 ## Project 2 - Crosswords
-This is the first project of the course, more information can be found in the [README.txt](https://github.com/leonardofmoura/FEUP-PROG/blob/master/Project%202%20-%20Crosswords/README.txt) file of the project.
+This is the second project of the course, more information can be found in the [README.txt](https://github.com/leonardofmoura/FEUP-PROG/blob/master/Project%202%20-%20Crosswords/README.txt) file of the project.
 
 
 **Note** : Both projects were made with my partner Eduardo Ribeiro.
